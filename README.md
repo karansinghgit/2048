@@ -6,4 +6,4 @@ The code is divided into 2 main parts:
 2. `game.py` file which contains the code for the basic game mechanics.
 
 A walkthrough of the game:
-<img src="https://github.com/karansinghgit/2048/blob/master/gameplay.gif" width="800", height="450">
+![](gameplay.gif)
